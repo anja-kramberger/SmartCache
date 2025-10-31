@@ -1,0 +1,14 @@
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\bin\Debug\net8.0\SmartCache.exe
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\bin\Debug\net8.0\SmartCache.deps.json
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\bin\Debug\net8.0\SmartCache.runtimeconfig.json
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\bin\Debug\net8.0\SmartCache.dll
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\bin\Debug\net8.0\SmartCache.pdb
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.AssemblyInfoInputs.cache
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.AssemblyInfo.cs
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.csproj.CoreCompileInputs.cache
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.dll
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\refint\SmartCache.dll
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.pdb
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\SmartCache.genruntimeconfig.cache
+C:\Users\PANDA\Desktop\CacheTestClass\SmartCache\SmartCache\obj\Debug\net8.0\ref\SmartCache.dll
